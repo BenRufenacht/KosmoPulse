@@ -7,7 +7,7 @@
    viewBox="0 0 50 200"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   inkscape:version="1.2 (1:1.2+202206011327+fc4e4096c5)"
    sodipodi:docname="PulsePanelGraphics.svg"
    inkscape:export-filename="PulsePanelGraphics.png"
    inkscape:export-xdpi="100"
@@ -29,10 +29,10 @@
      showgrid="true"
      showguides="true"
      inkscape:zoom="1"
-     inkscape:cx="15.5"
-     inkscape:cy="402"
+     inkscape:cx="-58.5"
+     inkscape:cy="361"
      inkscape:window-width="1350"
-     inkscape:window-height="1041"
+     inkscape:window-height="1013"
      inkscape:window-x="124"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -120,7 +120,7 @@
        id="guide1017"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="-207.9625,125.12292"
+       position="12.5,125"
        orientation="0,-1"
        id="guide691"
        inkscape:locked="false" />
@@ -305,10 +305,10 @@
        id="text3810"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect3812);display:inline;fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="141.73242"
-         y="83.737353"
-         id="tspan417"><tspan
-           dx="0 15.761719 29.277344 27.8125 16.835938 29.921875 31.015625 14.0625 38.90625 27.34375 27.929688 30.058594 16.835938 29.921875"
-           id="tspan415">tURING mACHINE</tspan></tspan></text>
+         y="82.634766"
+         id="tspan5492"><tspan
+           dx="0 15.683594 29.277344 27.792969 11.796875 29.921875 30.996094 12.714844 38.964844 26.660156 27.929688 30.078125 11.796875 29.921875"
+           id="tspan5490">tURING mACHINE</tspan></tspan></text>
     <circle
        style="font-size:7.05556px;font-family:Myfont;-inkscape-font-specification:'Myfont, Normal';letter-spacing:0px;word-spacing:0px;fill:#ffffff;stroke:#ffffff;stroke-width:0.641026"
        id="path3335"
@@ -628,8 +628,8 @@
     <ellipse
        style="display:inline;fill:#ffffff;stroke:#ffffff;stroke-width:1.36363"
        id="path785-23"
-       cx="13.181818"
-       cy="74.877083"
+       cx="12.5"
+       cy="75"
        rx="6.818182"
        ry="6.8181829" />
     <ellipse
