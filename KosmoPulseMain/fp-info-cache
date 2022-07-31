@@ -1,1 +1,498 @@
+116651408796196
+ao_tht
+3PDT-toggle-switch-1M-seriesx
+
+
+0
+9
+9
+ao_tht
+Arduino_Nano
+Arduino Nano, http://www.mouser.com/pdfdocs/Gravitech_Arduino_Nano3_0.pdf
+Arduino Nano
+0
+30
+30
+ao_tht
+Board_Marker
+Mark board for extraction
+
+0
+0
+0
+ao_tht
+CC0_logo
+
+
+0
+0
+0
+ao_tht
+CP_Radial_D5.0mm_P2.00mm
+CP, Radial series, Radial, pin pitch=2.00mm, , diameter=5mm, Electrolytic Capacitor
+CP Radial series Radial pin pitch 2.00mm  diameter 5mm Electrolytic Capacitor
+0
+2
+2
+ao_tht
+CP_Radial_D6.3mm_P2.50mm
+CP, Radial series, Radial, pin pitch=2.50mm, , diameter=6.3mm, Electrolytic Capacitor
+CP Radial series Radial pin pitch 2.50mm  diameter 6.3mm Electrolytic Capacitor
+0
+2
+2
+ao_tht
+C_Disc_D3.0mm_W1.6mm_P2.50mm
+C, Disc series, Radial, pin pitch=2.50mm, , diameter*width=3.0*1.6mm^2, Capacitor, http://www.vishay.com/docs/45233/krseries.pdf
+C Disc series Radial pin pitch 2.50mm  diameter 3.0mm width 1.6mm Capacitor
+0
+2
+2
+ao_tht
+C_Radial_D8.0mm_H11.5mm_P3.50mm
+C, Radial series, Radial, pin pitch=3.50mm, diameter=8mm, height=11.5mm, Non-Polar Electrolytic Capacitor
+C Radial series Radial pin pitch 3.50mm diameter 8mm height 11.5mm Non-Polar Electrolytic Capacitor
+0
+2
+2
+ao_tht
+C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2
+C, Rect series, Radial, pin pitch=5.00mm, , length*width=7.2*2.5mm^2, Capacitor, http://www.wima.com/EN/WIMA_FKS_2.pdf
+C Rect series Radial pin pitch 5.00mm  length 7.2mm width 2.5mm Capacitor
+0
+2
+2
+ao_tht
+C_Rect_L7.2mm_W7.2mm_P5.00mm_FKS2_FKP2_MKS2_MKP2
+C, Rect series, Radial, pin pitch=5.00mm, , length*width=7.2*7.2mm^2, Capacitor, http://www.wima.com/EN/WIMA_FKS_2.pdf
+C Rect series Radial pin pitch 5.00mm  length 7.2mm width 7.2mm Capacitor
+0
+2
+2
+ao_tht
+D6R
+D6RLGNF1+LFS-1
+Switch
+0
+6
+6
+ao_tht
+DIN5
+
+
+0
+7
+7
+ao_tht
+DIP-6_W7.62mm_Socket_LongPads
+6-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket, LongPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket LongPads
+0
+6
+6
+ao_tht
+DIP-8_W7.62mm_Socket_LongPads
+8-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket, LongPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket LongPads
+0
+8
+8
+ao_tht
+DIP-14_W7.62mm_Socket_LongPads
+14-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket, LongPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket LongPads
+0
+14
+14
+ao_tht
+DIP-16_W7.62mm_Socket_LongPads
+16-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket, LongPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket LongPads
+0
+16
+16
+ao_tht
+DPDT-toggle-switch-1M-seriesx
+
+
+0
+6
+6
+ao_tht
+D_DO-35_SOD27_P7.62mm_Horizontal
+Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf
+Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm
+0
+2
+2
+ao_tht
+D_DO-41_SOD81_P7.62mm_Horizontal
+Diode, DO-41_SOD81 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf
+Diode DO-41_SOD81 series Axial Horizontal pin pitch 7.62mm  length 5.2mm diameter 2.7mm
+0
+2
+2
+ao_tht
+D_DO-41_SOD81_P10.16mm_Horizontal
+Diode, DO-41_SOD81 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf
+Diode DO-41_SOD81 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm
+0
+2
+2
+ao_tht
+Heatsink_17x17mm_A-5093
+Heatsink, 17mm x 17mm, Tayda A-5093
+heatsink
+0
+0
+0
+ao_tht
+Jack_3.5mm_tip_switch_thonkiconn
+TRS 3.5mm, vertical, Thonkiconn, PCB mount, (http://www.qingpu-electronics.com/en/products/WQP-PJ398SM-362.html)
+WQP-PJ398SM TRS 3.5mm mono vertical jack thonkiconn qingpu
+0
+3
+3
+ao_tht
+Jack_6.35mm_Neutrik_NMJ6HCD2_Horizontal
+M Series, 6.35mm (1/4in) stereo jack, switched, with chrome ferrule and straight PCB pins, https://www.neutrik.com/en/product/nmj6hcd2
+neutrik jack m
+0
+6
+6
+ao_tht
+Jack_6.35mm_PJ_629HAN
+
+
+0
+5
+5
+ao_tht
+Jack_6.35mm_PJ_629HAN_slots
+
+
+0
+5
+5
+ao_tht
+Jack_6.35mm_TE-CK-6.35-29B_Horizontal
+M Series, 6.35mm (1/4in) stereo jack, switched, with chrome ferrule and straight PCB pins, https://www.neutrik.com/en/product/nmj6hcd2
+neutrik jack m
+0
+6
+6
+ao_tht
+LED_D5.0mm
+LED, diameter 5.0mm, 2 pins, http://cdn-reichelt.de/documents/datenblatt/A500/LL-504BC2E-009.pdf
+LED diameter 5.0mm 2 pins
+0
+2
+2
+ao_tht
+Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical
+Molex KK-254 Interconnect System, old/engineering part number: AE-6410-02A example for new part number: 22-27-2021, 2 Pins (http://www.molex.com/pdm_docs/sd/022272021_sd.pdf), generated with kicad-footprint-generator
+connector Molex KK-254 side entry
+0
+2
+2
+ao_tht
+Molex_KK-254_AE-6410-03A_1x03_P2.54mm_Vertical
+Molex KK-254 Interconnect System, old/engineering part number: AE-6410-03A example for new part number: 22-27-2031, 3 Pins (http://www.molex.com/pdm_docs/sd/022272021_sd.pdf), generated with kicad-footprint-generator
+connector Molex KK-254 side entry
+0
+3
+3
+ao_tht
+Molex_KK-254_AE-6410-08A_1x08_P2.54mm_Vertical
+Molex KK-254 Interconnect System, old/engineering part number: AE-6410-08A example for new part number: 22-27-2081, 8 Pins (http://www.molex.com/pdm_docs/sd/022272021_sd.pdf), generated with kicad-footprint-generator
+connector Molex KK-254 side entry
+0
+8
+8
+ao_tht
+MountingHole_3.2mm_M3
+Mounting Hole 3.2mm, no annular, M3
+mounting hole 3.2mm no annular m3
+0
+0
+0
+ao_tht
+MountingHole_3.2mm_Pad
+Mounting Hole 3.2mm
+mounting hole 3.2mm
+0
+1
+1
+ao_tht
+OSHW-Logo2_7.3x6mm_SilkScreen
+Open Source Hardware Symbol
+Logo Symbol OSHW
+0
+0
+0
+ao_tht
+PPTC_RXEF025
+Fuse, Resettable, Radial, pin pitch=5.00mm, , diameter*width=7.0*3.0mm^2, Fuse, https://www.littelfuse.com/~/media/electronics/datasheets/resettable_ptcs/littelfuse_ptc_radial_leaded_rxef_datasheet.pdf.pdf
+Fuse Resettable Radial pin pitch 5.00mm  diameter 7.0mm width 3.0mm 
+0
+2
+2
+ao_tht
+Perf_Board_Hole
+Wire solder connection
+connector
+0
+1
+1
+ao_tht
+PinHeader_1x02_P2.54mm_Vertical
+Through hole straight pin header, 1x02, 2.54mm pitch, single row
+Through hole pin header THT 1x02 2.54mm single row
+0
+2
+2
+ao_tht
+PinHeader_1x03_P2.54mm_Vertical
+Through hole straight pin header, 1x03, 2.54mm pitch, single row
+Through hole pin header THT 1x03 2.54mm single row
+0
+3
+3
+ao_tht
+PinHeader_1x04_P2.54mm_Vertical
+Through hole straight pin header, 1x04, 2.54mm pitch, single row
+Through hole pin header THT 1x04 2.54mm single row
+0
+4
+4
+ao_tht
+PinHeader_1x08_P2.54mm_Vertical
+Through hole straight pin header, 1x08, 2.54mm pitch, single row
+Through hole pin header THT 1x08 2.54mm single row
+0
+8
+8
+ao_tht
+PinHeader_1x10_P2.54mm_Vertical
+Through hole straight pin header, 1x10, 2.54mm pitch, single row
+Through hole pin header THT 1x10 2.54mm single row
+0
+10
+10
+ao_tht
+PinSocket_1x10_P2.54mm_Vertical
+Through hole straight socket strip, 1x10, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
+Through hole socket strip THT 1x10 2.54mm single row
+0
+10
+10
+ao_tht
+Potentiometer_Alpha_16mm_Long_Pin_Single_Vertical
+Potentiometer, vertical, Piher PC-16 Single, http://www.piher-nacesa.com/pdf/20-PC16v03.pdf
+Potentiometer vertical Piher PC-16 Single
+0
+3
+3
+ao_tht
+Potentiometer_Alpha_16mm_Single_Vertical
+Potentiometer, vertical, Piher PC-16 Single, http://www.piher-nacesa.com/pdf/20-PC16v03.pdf
+Potentiometer vertical Piher PC-16 Single
+0
+3
+3
+ao_tht
+Potentiometer_Alpha_RA6020F_Single_Slide
+Bourns single-gang slide potentiometer, 60.0mm travel, https://www.bourns.com/docs/Product-Datasheets/pta.pdf
+Bourns single-gang slide potentiometer 60.0mm
+0
+3
+3
+ao_tht
+Potentiometer_Alpha_RD901F-40-00D_Single_Vertical
+Potentiometer, vertical, 9mm, single, http://www.taiwanalpha.com.tw/downloads?target=products&id=113
+potentiometer vertical 9mm single
+0
+5
+3
+ao_tht
+Potentiometer_Alpha_RD901F-40-00D_Single_Vertical_CircularHoles
+Potentiometer, vertical, 9mm, single, http://www.taiwanalpha.com.tw/downloads?target=products&id=113
+potentiometer vertical 9mm single
+0
+5
+3
+ao_tht
+Potentiometer_Alpha_RD901F-40-00D_Single_Vertical_CircularHoles_centered
+Potentiometer, vertical, 9mm, single, http://www.taiwanalpha.com.tw/downloads?target=products&id=113
+potentiometer vertical 9mm single
+0
+5
+3
+ao_tht
+Potentiometer_Alpha_RD901F-40-00D_Single_Vertical_centered
+Potentiometer, vertical, 9mm, single, http://www.taiwanalpha.com.tw/downloads?target=products&id=113
+potentiometer vertical 9mm single
+0
+5
+3
+ao_tht
+Potentiometer_Alpha_RD902F-40-00D_Dual_Vertical_CircularHoles_centered
+Potentiometer, vertical, 9mm, dual, http://www.taiwanalpha.com.tw/downloads?target=products&id=113
+potentiometer vertical 9mm dual
+0
+8
+6
+ao_tht
+Potentiometer_Alpha_RV16AF-20_Single_Horizontal
+Potentiometer, horizontal, Alps RK163 Single, http://www.alps.com/prod/info/E/HTML/Potentiometer/RotaryPotentiometers/RK16/RK16_list.html
+Potentiometer horizontal Alps RK163 Single
+0
+3
+3
+ao_tht
+Potentiometer_Alps_RK163_Single_Horizontal
+Potentiometer, horizontal, Alps RK163 Single, http://www.alps.com/prod/info/E/HTML/Potentiometer/RotaryPotentiometers/RK16/RK16_list.html
+Potentiometer horizontal Alps RK163 Single
+0
+3
+3
+ao_tht
+Potentiometer_Bourns_3296W_Vertical
+Potentiometer, vertical, Bourns 3296W, https://www.bourns.com/pdfs/3296.pdf
+Potentiometer vertical Bourns 3296W
+0
+3
+3
+ao_tht
+Potentiometer_Bourns_3296W_Vertical_screw_centered
+Potentiometer, vertical, Bourns 3296W, https://www.bourns.com/pdfs/3296.pdf
+Potentiometer vertical Bourns 3296W
+0
+3
+3
+ao_tht
+Potentiometer_Bourns_3296W_Vertical_standard
+Potentiometer, vertical, Bourns 3296W, https://www.bourns.com/pdfs/3296.pdf
+Potentiometer vertical Bourns 3296W
+0
+3
+3
+ao_tht
+Power_Header
+Through hole straight IDC box header, 2x05, 2.54mm pitch, double rows
+Through hole IDC box header THT 2x05 2.54mm double row
+0
+10
+10
+ao_tht
+Push_button_A-5050
+
+
+0
+2
+2
+ao_tht
+R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf
+Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm
+0
+2
+2
+ao_tht
+R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal
+Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf
+Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W length 6.3mm diameter 2.5mm
+0
+2
+2
+ao_tht
+Rotary_Switch
+
+Rotary Switch 4x3/2x6/1x12
+0
+13
+13
+ao_tht
+SOT-23_Handsoldering
+SOT-23, Handsoldering
+SOT-23
+0
+3
+3
+ao_tht
+SPDT-toggle-switch-1M-series
+
+
+0
+3
+3
+ao_tht
+SolderWirePad_1x01_Drill0.8mm
+Wire solder connection
+connector
+0
+1
+1
+ao_tht
+SolderWirePad_1x01_Drill1mm
+Wire solder connection
+connector
+0
+1
+1
+ao_tht
+TO-92_Inline_Wide
+TO-92 leads in-line, wide, drill 0.75mm (see NXP sot054_po.pdf)
+to-92 sc-43 sc-43a sot54 PA33 transistor
+0
+3
+3
+ao_tht
+TerminalBlock_Degson_DG301_1x03_P5.00mm_Vertical
+terminal block RND 205-00079, vertical (cable from top), 3 pins, pitch 5mm, size 15x10mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00276_DB_EN.pdf, script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00079 vertical pitch 5mm size 15x10mm^2 drill 1.3mm pad 2.5mm
+0
+3
+3
+ao_tht
+TerminalBlock_dinkle_pluggable_2_P5.00mm
+simple 2-pin terminal block, pitch 5.08mm, revamped version of bornier2
+terminal block bornier2
+0
+2
+2
+ao_tht
+TestPoint_THTPad_1.5x1.5mm_Drill0.7mm
+THT rectangular pad as test Point, square 1.5mm side length, hole diameter 0.7mm
+test point THT pad rectangle square
+0
+1
+1
+ao_tht
+TestPoint_THTPad_D1.5mm_Drill0.7mm
+THT pad as test Point, diameter 1.5mm, hole diameter 0.7mm
+test point THT pad
+0
+1
+1
+ao_tht
+Wall_wart_A-4118
+
+
+0
+3
+3
+ao_tht
+analogoutput
+
+
+0
+0
+0
+ao_tht
+analogoutput_12mm
+
+
+0
+0
 0

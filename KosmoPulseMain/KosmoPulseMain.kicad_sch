@@ -847,7 +847,6 @@
     )
   )
 
-
   (junction (at 157.48 80.01) (diameter 0) (color 0 0 0 0)
     (uuid 04e59d25-41cd-4375-9713-6a6296e29d57)
   )
@@ -898,6 +897,9 @@
   )
   (junction (at 146.05 43.18) (diameter 0) (color 0 0 0 0)
     (uuid cb2952e7-3b69-46e8-a059-a363d94d537e)
+  )
+  (junction (at 81.28 148.59) (diameter 0) (color 0 0 0 0)
+    (uuid cdc91f8b-80bc-4f25-8af5-6f8c838460c3)
   )
   (junction (at 82.55 106.68) (diameter 0) (color 0 0 0 0)
     (uuid d1e7299a-8988-428e-9462-9092702944aa)
@@ -1892,7 +1894,7 @@
     (uuid 4e8cbbf0-a19f-49cc-8324-0b2e960fad6a)
     (property "Reference" "C1" (id 0) (at 218.44 115.57 90))
     (property "Value" "100n" (id 1) (at 218.44 118.11 90))
-    (property "Footprint" "ao_tht:C_Disc_D3.0mm_W1.6mm_P2.50mm" (id 2) (at 222.25 122.2248 0)
+    (property "Footprint" "ao_tht:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2" (id 2) (at 222.25 122.2248 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 218.44 123.19 0)
@@ -2669,6 +2671,22 @@
     (pin "T" (uuid 79fc3322-7ca9-4582-82a7-637d75380b2c))
   )
 
+  (symbol (lib_id "power:GND") (at 81.28 148.59 0) (unit 1)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (uuid e209ad97-34aa-4a0a-9cdc-ff05f470017b)
+    (property "Reference" "#PWR?" (id 0) (at 81.28 154.94 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "GND" (id 1) (at 81.28 153.67 0))
+    (property "Footprint" "" (id 2) (at 81.28 148.59 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (id 3) (at 81.28 148.59 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 85b9e4d6-1fe2-424b-8129-5e9564b6a4ae))
+  )
+
   (symbol (lib_id "ao_symbols:R") (at 74.93 124.46 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid e7d26368-633e-4e5a-b877-2a0f1efdf73c)
@@ -2783,8 +2801,11 @@
     (path "/3d977315-5ab6-4917-80fa-4fc446dd2531"
       (reference "#PWR012") (unit 1) (value "GND") (footprint "")
     )
+    (path "/e209ad97-34aa-4a0a-9cdc-ff05f470017b"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/4e8cbbf0-a19f-49cc-8324-0b2e960fad6a"
-      (reference "C1") (unit 1) (value "100n") (footprint "ao_tht:C_Disc_D3.0mm_W1.6mm_P2.50mm")
+      (reference "C1") (unit 1) (value "100n") (footprint "ao_tht:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2")
     )
     (path "/13aad5e6-4db7-4272-9917-460d43d5f094"
       (reference "D1") (unit 1) (value "LED7") (footprint "ao_tht:LED_D5.0mm")
